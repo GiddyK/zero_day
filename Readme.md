@@ -2,4 +2,4 @@
 
 _my  name is Gideon Koech_
 **I really love ALX**
-~~Thats all~~
+~~Thats all~~.
